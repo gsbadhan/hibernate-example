@@ -1,1 +1,1 @@
-# hibernate-examples with Mysql
+# Hibernate(ORM) examples with Mysql
